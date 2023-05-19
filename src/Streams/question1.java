@@ -77,7 +77,7 @@ public class question1{
     }
 
     public static void main(String[] args) {
-        ArrayList<Fruit> fruits = new ArrayList<>();
+
         ArrayList<Fruit> fruits = new ArrayList<>();
         fruits.add(new Fruit("Apple", 120, 2, "Red"));
         fruits.add(new Fruit("Banana", 90, 1, "Yellow"));
